@@ -1,0 +1,12 @@
+[package]
+name = "merry"
+version = "0.0.1"
+authors = ["Locez <loki.a@live.cn>"]
+edition = "2018"
+description = "merry is a blog"
+repository = "https://github.com/locez/merry"
+license = "MIT"
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
